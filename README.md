@@ -170,8 +170,10 @@
 
 1. Autopilot 开了仍弹 Allow → 查 `permissions.yaml`，不是再开一次 Autopilot  
 2. YAML 里裸 `true`/`false` → fail-closed「could not load permission settings」  
-3. 口令贴错窗 → 看窗口标题/分支 footer，门户≠API  
+3. 口令贴错窗 → 看窗口标题/分支 footer，门户≠控制台≠API；**总控不碰剪贴板，人贴**  
 4. 会话 Internal error → 以 git 为准续跑，别死磕坏会话  
+5. 总控代贴剪贴板 → 易串窗；改为聊天写「发给 X 窗」+ 正文  
+6. 对客文案漏上游名 → 页面/docs/FAQ/Keys 分组/错误 message/邮件整表扫  
 
 ---
 
